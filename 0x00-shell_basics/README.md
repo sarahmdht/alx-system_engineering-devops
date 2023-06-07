@@ -1,2 +1,2 @@
-this is a readme file
-and it is not empty
+the description of this repo is
+shell basics project
